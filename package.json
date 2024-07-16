@@ -1,8 +1,9 @@
 {
   "name": "tenniscore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is it a valid tennis score?",
   "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "test": "vitest"
   },

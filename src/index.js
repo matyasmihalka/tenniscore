@@ -74,3 +74,4 @@ const evaluateTennisScore = (input) => {
 
 
 export { evaluateTennisScore };
+export default evaluateTennisScore;
